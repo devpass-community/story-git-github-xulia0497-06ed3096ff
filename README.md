@@ -7,4 +7,4 @@ You're going to practice common Git skills that you'll use during your work here
 
 ## Contributors
 
-- Julia Valerio Developer
+- Julia Valerio Andrade dias (Developer)
